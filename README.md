@@ -1,1 +1,2 @@
 # Automated-script-test
+hello
