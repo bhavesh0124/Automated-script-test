@@ -1,2 +1,2 @@
 # Automated-script-test
-hello
+hellohello
